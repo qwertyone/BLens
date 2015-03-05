@@ -16,13 +16,18 @@
 # Re = P (Ye, Ze)
 # achievement index
 # Ra = P(Yx,Ye)
-# matching index
+# matching index - G
+# how well functions and weights of Z are represented in X
 # G = P(Zx,Ze)
 # Ra = G*Re*Rx
 # Error correlation
 # if C = 0 (independent), otherwise variable omission or cues used in a non-linear manner
+# high C may mean accuracy in cue linear use, configural use or nonlinear use or unmodelled knowledge
+# onlinearity refers to nonlinear transformations before combination
+# configuration means interactions between cues (dependence)
 # C = P(errorx,errore)
-
+# GRx = performance, match requirements and consistent
+# GRe = validity of model
 
 
 
